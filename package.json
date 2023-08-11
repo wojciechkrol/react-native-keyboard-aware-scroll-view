@@ -37,7 +37,8 @@
     "homepage": "https://github.com/APSL/react-native-keyboard-aware-scroll-view#readme",
     "dependencies": {
         "prop-types": "^15.6.2",
-        "react-native-iphone-x-helper": "^1.0.3"
+        "react-native-iphone-x-helper": "https://github.com/wojciechkrol/react-native-iphone-x-helper.git#master",
+        "react-native-gesture-handler": "~2.9.0"
     },
     "peerDependencies": {
         "react-native": ">=0.48.4"
